@@ -1,6 +1,9 @@
 # elk-kubernetes-statefulset-deployment
 A sample project to deploy elk cluster with kubernetes.
 
+For reference you can check following link :- 
+https://devopscounsel.com/elasticsearch-kibana-setup-on-kubernetes-cluster/
+
 **********************************************************************************************
 For this project to work properly we need to ensure few things:
 
